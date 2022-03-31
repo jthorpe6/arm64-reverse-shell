@@ -8,7 +8,7 @@ tested on Debian 10 & M1 macOS 12.3
 
 It'll give you shellcode if you pass `shellcode` in the last argument.
 
-** example**
+**example**
 
 ```bash
 $ ./generate.sh 192.168.64.1 4444 shellcode
